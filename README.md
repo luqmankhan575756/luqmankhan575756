@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=luqmankhan575756&color=red)
+
 # Hi, I'm Luqman Khan
 
 **BSCS Student**  
@@ -13,12 +15,14 @@ Passionate about learning Computer Science fundamentals, building projects, and 
 
 ---
 
-### 💻 Languages I Work With
+## 📊 Statistics & Progress
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luqmankhan&layout=compact&hide_border=true&theme=default)
-
----
-
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=luqmankhan575756&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luqmankhan575756&theme=radical" alt="GitHub Streak" width="48%"> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luqmankhan575756&langs_count=20&layout=compact&theme=radical" alt="Most Used Languages" width="50%">
+</p>
 ### 👁️ Profile Visitors
 
 ![Profile Views](https://komarev.com/ghpvc/?username=luqmankhan&style=flat&label=Profile+Views)

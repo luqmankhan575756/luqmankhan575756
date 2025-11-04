@@ -1,5 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=luqmankhan575756&color=red)
-
 # Hi, I'm Luqman Khan
 
 **BSCS Student**  

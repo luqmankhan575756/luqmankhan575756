@@ -21,7 +21,8 @@ Passionate about learning Computer Science fundamentals, building projects, and 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luqmankhan575756&langs_count=20&layout=compact&theme=radical" alt="Most Used Languages" width="50%">
 </p>
-### 👁️ Profile Visitors
+
+## 👁️ Profile Visitors
 
 ![Profile Views](https://komarev.com/ghpvc/?username=luqmankhan&style=flat&label=Profile+Views)
 

@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Luqman Khan
 
-<!--
-**luqmankhan575756/luqmankhan575756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BSCS Student**  
+Passionate about learning Computer Science fundamentals, building projects, and exploring emerging technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats & Contribution Graph
+
+![Luqman Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luqmankhan&show_icons=true&hide_border=true&theme=default)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=luqmankhan&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true)
+
+---
+
+### 💻 Languages I Work With
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luqmankhan&layout=compact&hide_border=true&theme=default)
+
+---
+
+### 👁️ Profile Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=luqmankhan&style=flat&label=Profile+Views)
+
+---
+
+### 📫 Contact
+- LinkedIn: *(add your link here)*
+- Portfolio: *(add your website if any)*
+

@@ -29,6 +29,6 @@ Passionate about learning Computer Science fundamentals, building projects, and 
 ---
 
 ### 📫 Contact
-- LinkedIn: *(add your link here)*
+- LinkedIn: *(https://www.linkedin.com/in/luqman-khan-bb6b40338/)*
 - Portfolio: *(add your website if any)*
 
